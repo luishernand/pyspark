@@ -1,1 +1,15 @@
-# pyspark
+# pyspark  Tutorial
+- Create session 
+- Read datasets
+- View or show schema 
+- View columns
+- Select columns
+- Show data
+- Summary
+- Add columns
+- Drop columns
+- Drop Nan values
+- Fill missing values 
+- Groupby and agg
+- Filter Columns
+- Simple Lienar Regression
