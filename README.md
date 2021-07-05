@@ -13,3 +13,4 @@
 - Groupby and agg
 - Filter Columns
 - Simple Lienar Regression
+- Multiple Linear Regression
